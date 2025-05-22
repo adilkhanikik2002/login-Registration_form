@@ -11,7 +11,7 @@ export default function Footer() {
             </div> 
 
             <div className="text-center pt-1">
-                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/adil-khan-3085aa219/" target="_blank" rel="noreferrer">
                     <i className="bi bi-linkedin mx-2" style={{fontSize : "20px"}}></i>
                 </a>
                 
